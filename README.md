@@ -1,5 +1,5 @@
 # public
 
-1. methylation pipeline, m-bias, and methylkit analysis
-2. RNAseq salmon pipeline
-3. small RNA pipeline
+1. Methylation: methylation pipeline, m-bias, and methylkit analysis
+2. RNAseq: Salmon
+3. sRNA
